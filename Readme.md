@@ -1,2 +1,2 @@
-﻿# Linux study records 中文
+﻿# Linux 学习记录
 ##### 5级
